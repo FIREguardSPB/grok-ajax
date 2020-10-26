@@ -11,6 +11,6 @@ app.get('/json', (req, res) => {
     message: 'Hello!',
   });
 });
-
+//
 // Запуск сервера по порту 3000
 app.listen(3000);
